@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_View">
+    <group
+        android:id="@+id/contact_menu"
+        >
+        <item android:title=""
+            android:id="@+id/backarrow"
+            android:icon="@drawable/backarrow"
+            />
+        <item android:title=""
+            android:id="@+id/star"
+            android:icon="@drawable/ic_baseline_star_rate_24"/>
+
+        <item android:title=""
+
+            android:id="@+id/more"
+            android:icon="@drawable/more_option"/>
+
+    </group>
+
+</menu>
