@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyRecyclerViewSharedElement</string>
+    <string name="contactName">Benjamin</string>
+    <string name="emailAdress">realben44@gmail.com</string>
+    <string name="personal">personal</string>
+    <string name="mobile">Mobile</string>
+    <string name="phonrNumber">(070) 555-1367</string>
+</resources>
